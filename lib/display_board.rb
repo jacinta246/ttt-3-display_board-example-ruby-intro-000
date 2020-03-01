@@ -1,1 +1,3 @@
-display_board
+def display
+  display_board
+end
