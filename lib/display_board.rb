@@ -1,5 +1,5 @@
 def display_board
   display [" "," "," "]
   display [|,|,|]
-  row
+  row [1,2,3]
 end
