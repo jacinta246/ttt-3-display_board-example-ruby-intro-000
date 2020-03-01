@@ -1,1 +1,1 @@
-display{print "board"}
+display {print "board"}
