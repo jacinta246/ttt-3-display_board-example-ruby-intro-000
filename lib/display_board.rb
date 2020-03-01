@@ -1,1 +1,1 @@
-print {display_board}
+display_board {print}
