@@ -1,3 +1,1 @@
-def board
-  display Tic Tac Toe
-end
+print {display_board}
