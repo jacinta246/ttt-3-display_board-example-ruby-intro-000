@@ -1,7 +1,8 @@
 def display_board
-  display [" "," "," "]
-  display [|,|,|]
-  row [" "]
-  row [" "]
-  row [" "]
+  puts "A Tic Tac Toe Board"
+  puts ["   |   |   "]
+  puts ["-----------"]
+  puts ["   |   |   "]
+  puts ["-----------"]
+  puts ["   |   |   "]
 end
